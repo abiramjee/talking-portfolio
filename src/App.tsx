@@ -47,7 +47,7 @@ const projects = [
 
 const experience = [
   { role: 'AI / Software Engineering Intern', place: 'PreludeSys / Level Shift', dates: 'Jan 2025 onward', detail: 'Developed and validated multi-agent recruiting workflows, tested integrations, and documented exception states.' },
-  { role: 'Business Systems Consultant Intermediate', place: 'State of Indiana, FSSA', dates: 'Sep–Nov 2026', detail: 'Documented eligibility-processing workflows, exceptions, decision points, and follow-up requirements.' },
+  { role: 'Business Systems Consultant Intermediate', place: 'State of Indiana, FSSA', dates: 'Sep–Current', detail: 'Documented eligibility-processing workflows, exceptions, decision points, and follow-up requirements.' },
   { role: 'B.S. in Computer Science', place: 'Indiana University Bloomington', dates: 'May 2026', detail: 'Graduated with an Artificial Intelligence focus.' },
   { role: 'Autonomous Racing Team Member', place: 'IU Luddy Autonomous Racing Team', dates: 'Dec 2024–May 2025', detail: 'Contributed to React telemetry dashboards and Python simulation and testing workflows.' },
   { role: 'Student Assistant / Web Designer', place: 'Asian Cultures Center', dates: 'Mar 2024–May 2025', detail: 'Maintained responsive web pages and improved accessibility using HTML, CSS, and JavaScript.' },
